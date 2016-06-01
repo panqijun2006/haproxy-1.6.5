@@ -30,8 +30,6 @@ tests/test_hashes
 /*.c
 /*.o
 /*.so
-!/*.cfg
-!/*.conf
 /*.txt
 /*.TXT
 /*.txt.*
@@ -70,3 +68,5 @@ tests/test_hashes
 !/tests
 !/debian
 !/config
+!/mtcp-master.conf
+!/mtcp-slave.conf
