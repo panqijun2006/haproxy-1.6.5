@@ -30,6 +30,8 @@ tests/test_hashes
 /*.c
 /*.o
 /*.so
+!/*.cfg
+!/*.conf
 /*.txt
 /*.TXT
 /*.txt.*
