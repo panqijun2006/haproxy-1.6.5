@@ -6,6 +6,10 @@
                                2016/05/10
 
 
+
+0) Modify Makefile to your mtcp project root
+MTCP_ROOT=???
+
 1) How to build it
 ------------------
 
