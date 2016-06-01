@@ -114,13 +114,13 @@ CPU = generic
 # Currently, only 32, 64, x86_64, i386, i486, i586 and i686 are understood.
 ARCH =
 
-#### mTCP + DPDK2.2, add by panqijun###########################################################################
+#### mTCP + DPDK2.2###########################################################################
 DPDK=1
 PS=0
 NETMAP=0
 
 # please modify MTCP_ROOT !!
-MTCP_ROOT=/root/pqj/mtcp-master
+MTCP_ROOT=/root/xxx/mtcp-master
 
 # DPDK LIBRARY and HEADER
 DPDK_INC=${MTCP_ROOT}/dpdk/include
