@@ -25,8 +25,8 @@ contrib/halog/halog
 contrib/ip6range/ip6range
 contrib/iprange/iprange
 tests/test_hashes
-/*.cfg
-/*.conf
+#/*.cfg
+#/*.conf
 /*.diff
 /*.patch
 /*.c
